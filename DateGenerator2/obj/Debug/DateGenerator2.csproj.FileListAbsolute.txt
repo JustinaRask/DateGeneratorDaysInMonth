@@ -1,0 +1,6 @@
+c:\projects\DateGenerator2\DateGenerator2\bin\Debug\DateGenerator2.exe.config
+c:\projects\DateGenerator2\DateGenerator2\bin\Debug\DateGenerator2.exe
+c:\projects\DateGenerator2\DateGenerator2\bin\Debug\DateGenerator2.pdb
+c:\projects\DateGenerator2\DateGenerator2\obj\Debug\DateGenerator2.csprojResolveAssemblyReference.cache
+c:\projects\DateGenerator2\DateGenerator2\obj\Debug\DateGenerator2.exe
+c:\projects\DateGenerator2\DateGenerator2\obj\Debug\DateGenerator2.pdb
